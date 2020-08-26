@@ -1,2 +1,4 @@
 Esta es mi historia.
 Vivo en CDMX y estoy empezando mi carrera como front-end
+
+Ya he aprendido html, css y Javascript
