@@ -20,5 +20,10 @@ body{
     font-size: xx-large;
     text-align: center;
     padding-left: 20px;
-    
+    vertical-align: auto;
+}
+
+.footer{
+    background-color: #98c1d9;
+    color: #293241;
 }
